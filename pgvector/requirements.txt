@@ -1,0 +1,9 @@
+# Pip install necessary package
+pgvector
+openai
+psycopg2-binary
+tiktoken
+langchain
+huggingface_hub
+transformers
+#sentence_transformers
